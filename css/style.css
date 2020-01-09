@@ -1,0 +1,24 @@
+.nav {
+    background-color: aquamarine;
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+    font-size: large;
+}
+body {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, .8)), to(rgba(92, 77, 66, .8))), url("../assets/backdrop.jpg");
+}
+.homeJumbotron {
+    background-color: bisque;
+    opacity: .8;
+    padding: 1%;
+    /* max-width: 90%; */
+   /* display: inline-block; */
+   margin: auto;
+   text-align: center;
+}
+.logo{
+    max-width: 300px;
+}
+.mainTitle {
+    font-family: 'Pacifico', cursive;
+}
