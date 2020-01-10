@@ -27,3 +27,7 @@ body {
 .mainTitle {
     font-family: 'Pacifico', cursive;
 }
+
+.container {
+    padding-top: 1%;
+}
