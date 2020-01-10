@@ -1,11 +1,15 @@
-.nav {
+.navbar {
     background-color: aquamarine;
     font-family: 'Pacifico', cursive;
     font-weight: bold;
     font-size: large;
+    text-align: right;
+    /* float: right; */
+    
 }
 body {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, .8)), to(rgba(92, 77, 66, .8))), url("../assets/backdrop.jpg");
+    
 }
 .homeJumbotron {
     background-color: bisque;
@@ -15,6 +19,7 @@ body {
    /* display: inline-block; */
    margin: auto;
    text-align: center;
+   clear: both;
 }
 .logo{
     max-width: 300px;
